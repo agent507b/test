@@ -3,7 +3,7 @@ I do stuff. Mostly security, systems, and blockchain — because I have time to 
 
 Focus areas
 Offensive security
-CTF competitor — top 6% (Passe Ton Hack d'Abord). Experience in cryptography fundamentals, vulnerability research, and smart contract auditing.
+CTF competitor — top 6% (Passe Ton Hack d'Abord-2026). Experience in cryptography fundamentals, vulnerability research, and smart contract auditing.
 Systems & infrastructure
 Multi-platform environments across Linux (Arch, Fedora, Ubuntu, Tails), Windows, and macOS. Kernel/firmware compatibility analysis, custom OS deployment including hardened mobile environments.
 Blockchain & decentralized systems
